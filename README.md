@@ -1,1 +1,2 @@
 # Analyzing_Data_Assignment_2
+The code and files for Assignment_1 of the Analysing Data course. Performs simple linear regression on a dataset of fanfiction stories obtained through GOLEM KG, comparing a dependent variable representing the success of a story to multiple independent variables that represent quantified textual readability features. The aim is to observe if there is any influence of the formers on the latter based on simple linear regression prediction model.
